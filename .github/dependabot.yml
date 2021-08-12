@@ -4,6 +4,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    allow:
-      - dependency-name: "org.apache.beam:beam-sdks-java-bom"
-      - dependency-name: "com.solacesystems:*"
+#    allow:
+#      - dependency-name: "org.apache.beam:beam-sdks-java-bom"
+#      - dependency-name: "com.solacesystems:*"
